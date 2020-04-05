@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+#phrase{
+    position: relative;
+    margin: auto;
+    color: #003371;
+    width: 60%;
+    height: 150px;
+    border-radius: 5px ;
+    border: 2px solid #003371;
+}
+#resultat{
+    position: relative;
+    top: 20px;
+    right: 60px;
+    color: #003371;
+    width: 60%;
+    height: 150px;
+    border-radius: 5px ;
+    border: 2px solid #003371;
+}
+input{
+    position: relative;
+    top:20px;
+    right: 400px;
+    color: white;
+    width: 15%;
+    margin: auto;
+    height: 25px;
+    background-color: #003371;
+    margin: 5px;
+    border-radius: 5px ;
+    border: none;
+}
+.erreur{
+    position: relative;
+    color: red;
+    top: 15px;
+    left: -70px;
+}
+.fausse{
+    position: relative;
+    top: 10px;
+    background-color: red;
+    color: white;
+}
+.r{
+    position: relative;
+    top: 30px;
+}
+h3{
+    position : relative;
+    right: 100px;
+}
